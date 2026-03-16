@@ -541,6 +541,20 @@ a:hover {
   margin-bottom: 2.5rem;
 }
 
+.booking-simple {
+  text-align: center;
+}
+
+.booking-simple .section-title {
+  text-align: center;
+}
+
+.booking-simple .section-intro {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .availability-block {
   margin-bottom: 2rem;
 }
