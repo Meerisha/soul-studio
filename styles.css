@@ -527,6 +527,13 @@ a:hover {
 }
 
 .booking-actions {
+  justify-content: center;
+  text-align: center;
+}
+
+.booking-actions--center {
+  justify-content: center;
+}
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
